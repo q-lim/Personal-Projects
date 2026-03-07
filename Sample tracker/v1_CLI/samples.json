@@ -1,0 +1,47 @@
+[
+    {
+        "Type": "SolidSample",
+        "ID": "fbbb0c55-d3d3-4e31-bfc0-6780fef24210",
+        "Name": "Sample 1",
+        "Date": "2026-02-30",
+        "Experiment Number": "20260230 - 1",
+        "Lab": "Lab 01",
+        "Location": "Shelf 01",
+        "Status": "Not tested",
+        "Entry created": "2026-03-05T15:49:09.326930",
+        "State": "Solid",
+        "Storage Medium": "Plastic box",
+        "Storage Medium Volume": "1L",
+        "Sample Mass": "25g"
+    },
+    {
+        "Type": "LiquidSample",
+        "ID": "4b356ea4-31da-4a7c-8a5e-bc2b5d03e89b",
+        "Name": "Sample 2",
+        "Date": "2026-02-30",
+        "Experiment Number": "20260230 - 2",
+        "Lab": "Lab 01",
+        "Location": "Shelf 02",
+        "Status": "Not tested",
+        "Entry created": "2026-03-05T15:49:46.391972",
+        "State": "Liquid",
+        "Bottle Type": "Blue cap bottle",
+        "Bottle Volume": "100ml",
+        "Sample Volume": "75ml"
+    },
+    {
+        "Type": "SolidSample",
+        "ID": "3f895c2a-6d76-41f7-846c-ca242168e060",
+        "Name": "Industrial sample 001",
+        "Date": "2025-10-32",
+        "Experiment Number": "20260230 - 3",
+        "Lab": "Lab 02",
+        "Location": "Shelf 11",
+        "Status": "Not tested",
+        "Entry created": "2026-03-05T15:50:42.175027",
+        "State": "Solid",
+        "Storage Medium": "Ziplock bag",
+        "Storage Medium Volume": "2L",
+        "Sample Mass": "5kg"
+    }
+]

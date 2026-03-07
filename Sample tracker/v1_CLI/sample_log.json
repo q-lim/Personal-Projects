@@ -1,0 +1,20 @@
+[
+    {
+        "Timestamp": "2026-03-05T15:49:09.326930",
+        "Event": "CREATED",
+        "Sample ID": "fbbb0c55-d3d3-4e31-bfc0-6780fef24210",
+        "Message": "Sample Sample 1 created"
+    },
+    {
+        "Timestamp": "2026-03-05T15:49:46.391972",
+        "Event": "CREATED",
+        "Sample ID": "4b356ea4-31da-4a7c-8a5e-bc2b5d03e89b",
+        "Message": "Sample Sample 2 created"
+    },
+    {
+        "Timestamp": "2026-03-05T15:50:42.175027",
+        "Event": "CREATED",
+        "Sample ID": "3f895c2a-6d76-41f7-846c-ca242168e060",
+        "Message": "Sample Industrial sample 001 created"
+    }
+]
