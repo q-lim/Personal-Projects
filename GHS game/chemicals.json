@@ -1,0 +1,232 @@
+[
+    {
+        "name": "Sulfuric acid",
+        "formula": "H2SO4",
+        "ghs": ["Corrosive"]
+    },
+    {
+        "name": "Nitric acid",
+        "formula": "HNO3",
+        "ghs": ["Oxidizer", "Corrosive", "Toxic"]
+    },
+    {
+        "name": "Hydrochloric acid",
+        "formula": "HCl",
+        "ghs": ["Irritant", "Corrosive"]
+    },
+    {
+        "name": "Phosphoric acid",
+        "formula": "H3PO4",
+        "ghs": ["Irritant", "Corrosive"]
+    },
+    {
+        "name": "Aluminium nitrate nonahydrate",
+        "formula": "Al(NO3)3·9H2O",
+        "ghs": ["Corrosive"]
+    },
+    {
+        "name": "Ammonium nitrate",
+        "formula": "NH4NO3",
+        "ghs": ["Oxidizer", "Irritant"]
+    },
+    {
+        "name": "Ammonium cerium nitrate",
+        "formula": "(NH4)2Ce(NO3)6",
+        "ghs": ["Oxidizer", "Corrosive", "Irritant", "Environmental Hazard"]
+    },
+    {
+        "name": "Barium nitrate",
+        "formula": "Ba(NO3)2",
+        "ghs": ["Oxidizer", "Toxic"]
+    },
+    {
+        "name": "Calcium nitrate tetrahydrate",
+        "formula": "Ca(NO3)2·4H2O",
+        "ghs": []
+    },
+    {
+        "name": "Cerium(III) nitrate hexahydrate",
+        "formula": "Ce(NO3)3·6H2O",
+        "ghs": ["Corrosive", "Environmental Hazard"]
+    },
+    {
+        "name": "Chromium(III) nitrate nonahydrate",
+        "formula": "Cr(NO3)3·9H2O",
+        "ghs": ["Oxidizer", "Irritant"]
+    },
+    {
+        "name": "Copper(II) nitrate trihydrate",
+        "formula": "Cu(NO3)2·3H2O",
+        "ghs": ["Oxidizer", "Corrosive", "Environmental Hazard"]
+    },
+    {
+        "name": "Gallium(III) nitrate hydrate",
+        "formula": "Ga(NO3)3·xH2O",
+        "ghs": ["Oxidizer", "Irritant"]
+    },
+    {
+        "name": "Iron(III) nitrate nonahydrate",
+        "formula": "Fe(NO3)3·9H2O",
+        "ghs": ["Corrosive"]
+    },
+    {
+        "name": "Potassium nitrate",
+        "formula": "KNO3",
+        "ghs": ["Oxidizer"]
+    },
+    {
+        "name": "Lithium nitrate",
+        "formula": "LiNO3",
+        "ghs": ["Oxidizer", "Irritant"]
+    },
+    {
+        "name": "Magnesium nitrate hexahydrate",
+        "formula": "Mg(NO3)2·6H2O",
+        "ghs": []
+    },
+    {
+        "name": "Manganese(II) nitrate tetrahydrate",
+        "formula": "Mn(NO3)2·4H2O",
+        "ghs": ["Oxidizer", "Corrosive", "Health Hazard", "Irritant"]
+    },
+    {
+        "name": "Nickel(II) nitrate hexahydrate",
+        "formula": "Ni(NO3)2·6H2O",
+        "ghs": ["Oxidizer", "Corrosive", "Health Hazard", "Irritant", "Environmental Hazard"]
+    },
+    {
+        "name": "Rhodium(III) nitrate hydrate",
+        "formula": "Rh(NO3)3·xH2O",
+        "ghs": ["Oxidizer", "Corrosive"]
+    },
+    {
+        "name": "Scandium(III) nitrate hydrate",
+        "formula": "Sc(NO3)3·xH2O",
+        "ghs": ["Oxidizer"]
+    },
+    {
+        "name": "Sodium nitrate",
+        "formula": "NaNO3",
+        "ghs": ["Oxidizer", "Irritant"]
+    },
+    {
+        "name": "Strontium nitrate",
+        "formula": "Sr(NO3)2",
+        "ghs": ["Oxidizer", "Corrosive"]
+    },
+    {
+        "name": "Zinc nitrate hexahydrate",
+        "formula": "Zn(NO3)2·6H2O",
+        "ghs": ["Oxidizer", "Irritant", "Environmental Hazard"]
+    },
+    {
+        "name": "Chromium(IV) oxide",
+        "formula": "CrO3",
+        "ghs": ["Oxidizer", "Toxic", "Health Hazard", "Corrosive", "Environmental Hazard"]
+    },
+    {
+        "name": "Aluminium chloride",
+        "formula": "AlCl3",
+        "ghs": ["Corrosive"]
+    },
+    {
+        "name": "Ammonium chloride",
+        "formula": "NH4Cl",
+        "ghs": ["Irritant"]
+    },
+    {
+        "name": "Copper(I) chloride",
+        "formula": "CuCl",
+        "ghs": ["Corrosive", "Irritant", "Environmental Hazard"]
+    },
+    {
+        "name": "Chloroauric acid",
+        "formula": "HAuCl4",
+        "ghs": ["Health Hazard", "Irritant", "Corrosive", "Environmental Hazard"]
+    },
+    {
+        "name": "Gold(III) chlorde hydrate",
+        "formula": "HAuCl4·xH2O",
+        "ghs": ["Health Hazard", "Irritant", "Corrosive", "Environmental Hazard"]
+    },
+    {
+        "name": "Magnesium chloride",
+        "formula": "MgCl2",
+        "ghs": []
+    },
+    {
+        "name": "Manganese(II) chloride",
+        "formula": "HgCl2·4H2O",
+        "ghs": ["Corrosive", "Toxic", "Health Hazard"]
+    },
+    {
+        "name": "Mercury(II) chloride tetrahydrate",
+        "formula": "MnCl2",
+        "ghs": ["Corrosive", "Toxic", "Health Hazard", "Environmental Hazard"]
+    },
+    {
+        "name": "Molybdenum(V) chloride",
+        "formula": "MoCl5",
+        "ghs": ["Corrosive", "Health Hazard"]
+    },
+    {
+        "name": "Chloroplatinic acid",
+        "formula": "H2PtCl6",
+        "ghs": ["Health Hazard", "Toxic", "Corrosive", "Environmental Hazard"]
+    },
+    {
+        "name": "Potassium chloride",
+        "formula": "KCl",
+        "ghs": []
+    },
+    {
+        "name": "Ruthenium(III) chloride",
+        "formula": "RuCl3",
+        "ghs": ["Health Hazard"]
+    },
+    {
+        "name": "Sodium chloride",
+        "formula": "NaCl",
+        "ghs": []
+    },
+    {
+        "name": "Tin(II) chloride",
+        "formula": "SnCl2",
+        "ghs": ["Corrosive", "Irritant", "Health Hazard"]
+    },
+    {
+        "name": "Potassium hydroxide",
+        "formula": "KOH",
+        "ghs": ["Corrosive"]
+    },
+    {
+        "name": "Copper(I) cyanide",
+        "formula": "CuCN",
+        "ghs": ["Toxic", "Health Hazard", "Environmental Hazard"]
+    },
+    {
+        "name": "Potassium Dichromate",
+        "formula": "K2Cr2O7",
+        "ghs": ["Oxidizer", "Corrosive", "Health Hazard", "Irritant", "Environmental Hazard"]
+    },
+    {
+        "name": "Potassium Permanganate",
+        "formula": "KMnO4",
+        "ghs": ["Oxidizer", "Toxic", "Health Hazard", "Corrosive", "Environmental Hazard"]
+    },
+    {
+        "name": "Ethanol",
+        "formula": "C2H5OH",
+        "ghs": ["Flammable"]
+    },
+    {
+        "name": "Toluene",
+        "formula": "C7H8",
+        "ghs": ["Flammable", "Health Hazard", "Irritant"]
+    },
+    {
+        "name": "Citric acid",
+        "formula": "C6H8O7",
+        "ghs": []
+    }
+]
