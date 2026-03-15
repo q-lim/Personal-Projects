@@ -1,0 +1,64 @@
+[
+{
+"name": "Salbutamol",
+"iupac_name": "4-[2-(tert-butylamino)-1-hydroxyethyl]-2-(hydroxymethyl)phenol",
+"molecular_formula": "C13H21NO3",
+"smiles": "CC(C)(C)NCC(C1=CC(=C(C=C1)CO)O)O",
+"inchi": "InChI=1S/C13H21NO3",
+"inchikey": "NQPDXQQVGRCVKE-UHFFFAOYSA-N"
+},
+
+{
+"name": "Terbutaline",
+"iupac_name": "5-[2-(tert-butylamino)-1-hydroxyethyl]benzene-1,3-diol",
+"molecular_formula": "C12H19NO3",
+"smiles": "CC(C)(C)NCC(C1=CC(=CC(=C1)O)O)O",
+"inchi": "InChI=1S/C12H19NO3",
+"inchikey": "XEYBRNLFEZDVAW-UHFFFAOYSA-N"
+},
+
+{
+"name": "Salmeterol",
+"iupac_name": "long-chain selective β2 agonist",
+"molecular_formula": "C25H37NO4",
+"smiles": "CC(C)(C)NCC(C1=CC(=C(C=C1)O)CO)OCCCC2=CC=CC=C2",
+"inchi": "InChI=1S/C25H37NO4",
+"inchikey": "GIIZNNXWQWCKIB-UHFFFAOYSA-N"
+},
+
+{
+"name": "Formoterol",
+"iupac_name": "N-[2-hydroxy-5-(1-hydroxy-2-{[2-(4-methoxyphenyl)propan-2-yl]amino}ethyl)phenyl]formamide",
+"molecular_formula": "C19H24N2O4",
+"smiles": "COC1=CC=C(C=C1)C(C)(C)NCC(C2=CC(=C(C=C2)O)O)NC=O",
+"inchi": "InChI=1S/C19H24N2O4",
+"inchikey": "AUBKQYQXKJYTRU-UHFFFAOYSA-N"
+},
+
+{
+"name": "Fenoterol",
+"iupac_name": "β2 agonist phenethylamine derivative",
+"molecular_formula": "C17H21NO4",
+"smiles": "CC(C)(C)NCC(C1=CC(=C(C=C1)O)O)OC2=CC=CC=C2",
+"inchi": "InChI=1S/C17H21NO4",
+"inchikey": "SHXWCVYOXRDMCX-UHFFFAOYSA-N"
+},
+
+{
+"name": "Clenbuterol",
+"iupac_name": "4-amino-3,5-dichloro-alpha-[(tert-butylamino)methyl]benzyl alcohol",
+"molecular_formula": "C12H18Cl2N2O",
+"smiles": "CC(C)(C)NCC(C1=CC(=C(C(=C1)Cl)Cl)N)O",
+"inchi": "InChI=1S/C12H18Cl2N2O",
+"inchikey": "ITFQXKQXHUGXMG-UHFFFAOYSA-N"
+},
+
+{
+"name": "Metaproterenol",
+"iupac_name": "3,5-dihydroxy-α-[(isopropylamino)methyl]benzyl alcohol",
+"molecular_formula": "C11H17NO3",
+"smiles": "CC(C)NCC(C1=CC(=CC(=C1)O)O)O",
+"inchi": "InChI=1S/C11H17NO3",
+"inchikey": "YHXISWVBGDMDLQ-UHFFFAOYSA-N"
+}
+]

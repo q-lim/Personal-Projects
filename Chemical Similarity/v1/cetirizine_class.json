@@ -1,0 +1,64 @@
+[
+{
+"name": "Cetirizine",
+"iupac_name": "2-[2-[4-[(4-chlorophenyl)phenylmethyl]piperazin-1-yl]ethoxy]acetic acid",
+"molecular_formula": "C21H25ClN2O3",
+"smiles": "OC(=O)COCCN1CCN(CC1)C(C2=CC=CC=C2)C3=CC=C(C=C3)Cl",
+"inchi": "InChI=1S/C21H25ClN2O3",
+"inchikey": "ZKLPARSLTMPFCP-UHFFFAOYSA-N"
+},
+
+{
+"name": "Levocetirizine",
+"iupac_name": "active enantiomer of cetirizine",
+"molecular_formula": "C21H25ClN2O3",
+"smiles": "OC(=O)COCCN1CCN(CC1)C(C2=CC=CC=C2)C3=CC=C(C=C3)Cl",
+"inchi": "InChI=1S/C21H25ClN2O3",
+"inchikey": "ZKLPARSLTMPFCP-UHFFFAOYSA-N"
+},
+
+{
+"name": "Hydroxyzine",
+"iupac_name": "2-[2-[4-[(4-chlorophenyl)phenylmethyl]piperazin-1-yl]ethoxy]ethanol",
+"molecular_formula": "C21H27ClN2O2",
+"smiles": "OCCOCCN1CCN(CC1)C(C2=CC=CC=C2)C3=CC=C(C=C3)Cl",
+"inchi": "InChI=1S/C21H27ClN2O2",
+"inchikey": "ZQDWXGKKHFNSQK-UHFFFAOYSA-N"
+},
+
+{
+"name": "Loratadine",
+"iupac_name": "tricyclic antihistamine",
+"molecular_formula": "C22H23ClN2O2",
+"smiles": "CCOC(=O)N1CCC(CC1)C2=NC3=CC=CC=C3C=C2Cl",
+"inchi": "InChI=1S/C22H23ClN2O2",
+"inchikey": "VJYZRZQOBYBWBZ-UHFFFAOYSA-N"
+},
+
+{
+"name": "Desloratadine",
+"iupac_name": "active metabolite of loratadine",
+"molecular_formula": "C19H19ClN2",
+"smiles": "N1CCC(CC1)C2=NC3=CC=CC=C3C=C2Cl",
+"inchi": "InChI=1S/C19H19ClN2",
+"inchikey": "JAUOIFJMECXRGI-UHFFFAOYSA-N"
+},
+
+{
+"name": "Fexofenadine",
+"iupac_name": "second-generation antihistamine",
+"molecular_formula": "C32H39NO4",
+"smiles": "OC(=O)C(C)(C)CC(O)CCN1CCC(CC1)C2=CC=CC=C2",
+"inchi": "InChI=1S/C32H39NO4",
+"inchikey": "RMBKJZJXCFQXGM-UHFFFAOYSA-N"
+},
+
+{
+"name": "Diphenhydramine",
+"iupac_name": "2-(diphenylmethoxy)-N,N-dimethylethanamine",
+"molecular_formula": "C17H21NO",
+"smiles": "CN(C)CCOC(C1=CC=CC=C1)C2=CC=CC=C2",
+"inchi": "InChI=1S/C17H21NO",
+"inchikey": "ZZVUWRFHKOJYTH-UHFFFAOYSA-N"
+}
+]

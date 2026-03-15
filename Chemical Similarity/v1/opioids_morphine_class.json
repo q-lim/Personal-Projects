@@ -1,0 +1,58 @@
+[
+{
+"name": "Morphine",
+"iupac_name": "(4R,4aR,7S,7aR,12bS)-3-methyl-2,4,4a,7,7a,13-hexahydro-1H-4,12-methanobenzofuro[3,2-e]isoquinoline-7,9-diol",
+"molecular_formula": "C17H19NO3",
+"smiles": "CN1CC[C@]23[C@@H]4[C@H]1CC5=C2C(=C(C=C5)O)O[C@H]3[C@H](C=C4)O",
+"inchi": "InChI=1S/C17H19NO3/c1-18-7-6-17-10-3-5-13(20)16(17)21-15-12(19)4-2-9(14(15)17)8-11(10)18/h2-5,10-11,13,16,19-20H,6-8H2,1H3/t10-,11+,13-,16-,17-/m0/s1",
+"inchikey": "BQJCRHHNABKAKU-KBQPJGBKSA-N"
+},
+{
+"name": "Codeine",
+"iupac_name": "(4R,4aR,7S,7aR,12bS)-9-methoxy-3-methyl-2,4,4a,7,7a,13-hexahydro-1H-4,12-methanobenzofuro[3,2-e]isoquinoline-7-ol",
+"molecular_formula": "C18H21NO3",
+"smiles": "COC1=C2C[C@H]3O[C@H]4[C@@H](O)C=C[C@]5(CCN(C)CC5)C4=C3C2=CC1",
+"inchi": "InChI=1S/C18H21NO3",
+"inchikey": "OROGSEYTTFOCAN-DNJOTXNNSA-N"
+},
+{
+"name": "Heroin",
+"iupac_name": "(5α,6α)-7,8-didehydro-4,5-epoxy-3,6-diacetoxy-17-methylmorphinan",
+"molecular_formula": "C21H23NO5",
+"smiles": "CC(=O)OC1C2C3=C(CCN(C)CC3)C4=C2C=CC(OC(C)=O)=C4OC1",
+"inchi": "InChI=1S/C21H23NO5",
+"inchikey": "GVGLGOZIDCSQPN-UHFFFAOYSA-N"
+},
+{
+"name": "Hydromorphone",
+"iupac_name": "(4R,4aR,7S,7aR,12bS)-7-hydroxy-3-methyl-4,4a,7,7a-tetrahydro-2H-4,12-methanobenzofuro[3,2-e]isoquinolin-9-one",
+"molecular_formula": "C17H19NO3",
+"smiles": "CN1CCC23C4C1CC5=C2C(=C(C=C5)O)O[C@H]3C(=O)CC4",
+"inchi": "InChI=1S/C17H19NO3",
+"inchikey": "QPPBRPIAZQSPBT-UHFFFAOYSA-N"
+},
+{
+"name": "Oxymorphone",
+"iupac_name": "(4R,4aR,7S,7aR,12bS)-14-hydroxy-3-methyl-4,4a,7,7a-tetrahydro-2H-4,12-methanobenzofuro[3,2-e]isoquinolin-9-one",
+"molecular_formula": "C17H19NO4",
+"smiles": "CN1CCC23C4C1CC5=C2C(=C(C=C5)O)O[C@H]3C(=O)C(O)C4",
+"inchi": "InChI=1S/C17H19NO4",
+"inchikey": "RGVJZKKUTNGVQF-UHFFFAOYSA-N"
+},
+{
+"name": "Thebaine",
+"iupac_name": "(4R,4aR,7S,7aR,12bS)-3,6-dimethoxy-17-methyl-4,4a,7,7a-tetrahydro-2H-4,12-methanobenzofuro[3,2-e]isoquinoline",
+"molecular_formula": "C19H21NO3",
+"smiles": "COC1=C2C[C@H]3O[C@H]4C=C[C@]5(CCN(C)CC5)C4=C3C2=CC1OC",
+"inchi": "InChI=1S/C19H21NO3",
+"inchikey": "YIIOYXLNYXFQSM-UHFFFAOYSA-N"
+},
+{
+"name": "Naloxone",
+"iupac_name": "(4R,4aS,7aR,12bS)-3,14-dihydroxy-17-allyl-4,4a,7,7a-tetrahydro-2H-4,12-methanobenzofuro[3,2-e]isoquinolin-6-one",
+"molecular_formula": "C19H21NO4",
+"smiles": "C=CCN1CCC23C4C1CC5=C2C(=C(C=C5)O)O[C@H]3C(=O)C(O)C4",
+"inchi": "InChI=1S/C19H21NO4",
+"inchikey": "UZXYQJZAGIMEEI-UHFFFAOYSA-N"
+}
+]
