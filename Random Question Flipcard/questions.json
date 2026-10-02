@@ -1,0 +1,22 @@
+[
+  { "id": 1, "question": "What's a small thing that made you smile this week?" },
+  { "id": 2, "question": "If you could master any skill overnight, what would it be?" },
+  { "id": 3, "question": "What's the best meal you've ever had?" },
+  { "id": 4, "question": "Which book or film changed how you see the world?" },
+  { "id": 5, "question": "What would your ideal Saturday look like?" },
+  { "id": 6, "question": "What's a hobby you've always wanted to try?" },
+  { "id": 7, "question": "Who taught you something you still use today?" },
+  { "id": 8, "question": "If you could live anywhere for a year, where would it be?" },
+  { "id": 9, "question": "What's the best piece of advice you've ever received?" },
+  { "id": 10, "question": "What did you believe as a kid that turned out to be false?" },
+  { "id": 11, "question": "Which song takes you straight back to a memory?" },
+  { "id": 12, "question": "What's something you're proud of that few people know about?" },
+  { "id": 13, "question": "What would you do with a free afternoon and no phone?" },
+  { "id": 14, "question": "What's the most interesting place you've ever visited?" },
+  { "id": 15, "question": "What smell instantly brings back a memory?" },
+  { "id": 16, "question": "Which invention could you not live without?" },
+  { "id": 17, "question": "What would you do with an extra hour every day?" },
+  { "id": 18, "question": "What's a skill you have that surprises people?" },
+  { "id": 19, "question": "Who would you invite to dinner, living or not?" },
+  { "id": 20, "question": "What's the kindest thing a stranger has done for you?" }
+]
